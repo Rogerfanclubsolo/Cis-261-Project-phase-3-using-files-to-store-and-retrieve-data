@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Cis 261 Project phase 3 using files to store and retrieve data", "Cis 261 Project phase 3 using files to store and retrieve data.pyproj", "{60FE8395-7D52-40B5-B313-CAE8EA06DD65}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60FE8395-7D52-40B5-B313-CAE8EA06DD65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60FE8395-7D52-40B5-B313-CAE8EA06DD65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61D5BE01-4D0A-47F2-A439-D40066604982}
+	EndGlobalSection
+EndGlobal
